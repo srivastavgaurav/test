@@ -15,6 +15,8 @@ public class ItemBusinessService {
 	private ItemRepository repository;
 
 	public Item retrieveHardCodedItem() {
+		System.out.println("Hi");
+		
 		return new Item(1, "Ball", 10, 100);
 	}
 
