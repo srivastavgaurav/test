@@ -9,6 +9,9 @@ public class TestBusiness {
 		System.out.println("Hi main");
 		System.out.println("Hi main");
 		System.out.println("Hi main");
+		System.out.println("Hi");
+		System.out.println("Hi");
+		System.out.println("Hi");
 		return new Item(1, "Ball", 10, 100);
 	}
 
