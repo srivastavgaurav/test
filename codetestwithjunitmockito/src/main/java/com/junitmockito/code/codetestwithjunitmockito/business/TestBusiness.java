@@ -6,6 +6,9 @@ public class TestBusiness {
 	
 	public Item retrieveHardCodedItem() {
 		System.out.println("Hi");
+		System.out.println("Hi main");
+		System.out.println("Hi main");
+		System.out.println("Hi main");
 		return new Item(1, "Ball", 10, 100);
 	}
 
